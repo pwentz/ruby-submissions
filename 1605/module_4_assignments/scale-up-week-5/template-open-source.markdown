@@ -1,30 +1,64 @@
-# Scale Up Submission Form - Open Source Projects
-
 ## Basics
 
 ### Link(s) to the PRs or Issues You Picked Up
+https://github.com/roscalabrin/climbing-sensei/pull/35/files
+https://github.com/roscalabrin/climbing-sensei/pull/36/files
+https://github.com/roscalabrin/climbing-sensei/pull/33/files
+https://github.com/roscalabrin/climbing-sensei/pull/30/files
+https://github.com/roscalabrin/climbing-sensei/pull/19/files
+
 
 ### Summarize what you worked on the last two weeks
+Worked on a React container component that featured very heavy UI/UX functionality including:
+- User can see a tag's exercises by clicking that tag.
+- User can have multiple tags active at once.
+- User can click 'Clear Tags' to render no tags active.
+- User can click on an individual exercise to launch a modal on that exercise.
+- User can paginate through individual exercise details
+- URL's change dynamically according to which modal is rendered and
+  which tab the user is currently on.
+- User can add individual exercises to their workouts by dragging
+  exercise links and dropping them into their exercises container.
 
 ### Hours logged this week?
 
 - Monday (0 hours):
 - Tuesday (8 hours):
+  12 hours
+
 - Wednesday (8 hours):
+  7 hours
+
 - Thursday (8 hours):
+  12 hours
+
 - Friday (0 hours):
 
 ### Talk about something from the pre-work that you didn't know about before this week.
+How to use JavaScript's spead operator.
 
 ### Link to blog post(s) submitted
+https://medium.com/@powderedruckus/standing-on-the-shoulders-of-giants-64305ce3e086
 
 ### Discuss: your experience doing PR reviews and getting PR feedback (links are nice
+https://github.com/LookingForMe/lookingForFrontEnd/pull/87/files/7ae6571894bded742fb30745c60d8c09b9d79bdd#diff-3cb794f1aa5b28f839ec891a22035cd5
+https://medium.com/@calebcowen/the-bright-and-scary-world-of-frontend-3640b1bcbbe#.63f0g5syb
+https://github.com/LookingForMe/lookingForFrontEnd/pull/89
+
+Really enjoyed helping out those in my cohort with small React details that are easy to miss and also
+loved that the mentors were so active with helping out as well. Very reassuring to know that some
+things we're doing are indeed following React convention
 
 ### Discuss: your experience doing blog and getting feedback (links are nice)
+https://medium.com/@powderedruckus/standing-on-the-shoulders-of-giants-64305ce3e086
+
+I really didn't know what to write about my blog without it just being an opinion piece.
+I just wrote an honest reaction to the problems I had to solve with Scale-Up last week.
 
 ### Discuss: your experience doing daily stand ups
-
-### What features would you like to see the open source project you worked on have in the future?
+Stand ups were nice because I got to hear what everybody else is working on. Part of me
+wanted to pair with those that might have been struggling with React...but unfortunately I
+didn't have the time these last two weeks.
 
 ### Please feel free to ask any other questions or make any other statements below!
 
